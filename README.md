@@ -17,7 +17,7 @@ Cordova 支付宝基础功能插件
 1. 运行
 
 ```
-cordova plugin add https://github.com/xueron/cordova-alipay-base --variable APP_ID=your_app_id
+cordova plugin add https://github.com/Ariesly/cordova-alipay-base --variable APP_ID=your_app_id
 
 ```
 
